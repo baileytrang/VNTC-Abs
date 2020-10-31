@@ -36,9 +36,10 @@ TARGET:
 hai taxi đỗ xịch trước quán cà_phê cao_nguyên ( huyện hoà_vang , đà_nẵng ) đang rất đông khách . hơn chục thanh_niên mặt_mày dữ_dằn , lăm_lăm trong tay hung_khí ùa vào quán tấn_công một nhóm khách khoảng 7 người ...
 ```
 
+**Citation**
 ```
 @misc{vntc-abs,
-  author = {Trang-Phuong, N. Nguyen},
+  author = {Trang-Phuong, N. Nguyen and Nhi-Thao, Tran},
   title = {VNTC-Abs},
   year = {2020},
   publisher = {GitHub},
