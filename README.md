@@ -1,6 +1,6 @@
 # VNTC-Abs
 
-**VNTC-Abs** is a modified version of [**VNTC**](github.com/duyvuleo/VNTC) to be compatible with _Abstractive Summarization_ task.
+**VNTC-Abs** is a modified version of [**VNTC**](https://github.com/duyvuleo/VNTC) to be compatible with _Abstractive Summarization_ task.
 
 | type|Train set | Validate set | Test set |
 |----|---|---|---|
@@ -8,7 +8,7 @@
 |Avg. Input length | 309 |
 |Avg. Target length | 43 |
 
-We use [UETsegmenter](github.com/phongnt570/UETsegmenter) for tokenization.
+We use [UETsegmenter](https://github.com/phongnt570/UETsegmenter) for tokenization.
 
 **Train sample:**
 ```
